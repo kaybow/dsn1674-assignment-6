@@ -29,13 +29,27 @@ width: 320px;
 
 .brain{
 width: 46px;
+position: absolute;
+left: 4em;
+top: 10px;
 }
 
-.head-l, .head-r{
+.head-l {
+	width: 125px;
+	position: absolute;
+	top: 10px;
+}
+
+.head-r{
 width: 125px;
+position: absolute;
+top: 10px;
+
 }
 
-div .robot {
+.robot {
 	position: relative;
 	overflow: hidden;
+	width: 320px;
+
 }
