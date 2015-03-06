@@ -20,11 +20,13 @@ h1 {
 	color: white;
 	padding: 20px;
 	font-family: 'Contrail One', cursive;
+	margin-top: 0;
 }
 
 .body {
 width: 320px;
 padding-top: 3em;
+display: block;
 }
 
 .brain{
