@@ -9,6 +9,7 @@ html {
 body{
 	margin:0;
 }
+
 	header {
 		background-color: #2c3950;
 		padding-top: 3em;
@@ -19,6 +20,7 @@ h1 {
 	text-align: center;
 	color: white;
 	padding: 20px;
+	font-family: 'Contrail One', cursive;
 }
 
 .body {
