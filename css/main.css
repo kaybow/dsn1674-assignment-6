@@ -30,20 +30,22 @@ width: 320px;
 .brain{
 width: 46px;
 position: absolute;
-left: 4em;
+left: 8.5em;
 top: 10px;
 }
 
 .head-l {
 	width: 125px;
 	position: absolute;
-	top: 10px;
+	top: 15px;
+	left: 2px;
 }
 
 .head-r{
 width: 125px;
 position: absolute;
-top: 10px;
+top: 15px;
+right: 1px;
 
 }
 
