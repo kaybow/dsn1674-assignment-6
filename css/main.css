@@ -32,13 +32,26 @@ width: 46px;
 position: absolute;
 left: 8.5em;
 top: 50px;
+transition: all 200ms linear;
 }
+
+header:hover .b{
+	left: 8.5em;
+	top: 25px;
+}
+
 
 .head-l {
 	width: 125px;
 	position: absolute;
 	top: 10px;
 	left: 35px;
+	transition: all 200ms linear;
+}
+
+header:hover .l{
+top: 10px;
+left: 5px;
 }
 
 .head-r{
@@ -46,6 +59,13 @@ width: 125px;
 position: absolute;
 top: 10px;
 right: 35px;
+transition: all 200ms linear;
+}
+
+header:hover .r{
+	top: 10px;
+	right: 5px;
+
 }
 
 .robot {
@@ -53,5 +73,9 @@ right: 35px;
 	overflow: hidden;
 	width: 320px;
 	margin: 0 auto;
-
 }
+
+
+
+
+
